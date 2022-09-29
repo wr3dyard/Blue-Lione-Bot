@@ -36,7 +36,7 @@ global.APIKeys = {
 
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoreadpmngc = false //auto reading in gc and pm (true to on, false to off)
 global.autoReadGc = false //auto reading in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
@@ -54,18 +54,18 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94714188730'] //ur owner number
-global.ownername = "nipuna rangana" //ur owner name
-global.ytname = "YT: 𝐂𝐈𝐁𝐄𝐑 𝐓𝐄𝐂𝐇" //ur yt chanel name
-global.socialm = "GitHub: Nipuna-apps" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.vcardowner = ['94753963065'] //ur owner number
+global.ownername = "Nimsara Shehan" //ur owner name
+global.ytname = "YT: none" //ur yt chanel name
+global.socialm = "GitHub: Shehan" //ur github or insta name
+global.location = "Sri Lanka,Ampara" //ur location
 
 //bot bomdy 
-global.owner = ['94714188730']
+global.owner = ['94711214814']
 global.ownertag = '94714188730' //ur tag number
-global.botname = '📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶' //ur bot name
-global.linkz = "https://youtu.be/3J9-8U8St3U" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/3J9-8U8St3U" //ur website to be displayed
+global.botname = '📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚𝙨📶' //ur bot name
+global.linkz = "https://www.facebook.com/groups/392878116089801/?ref=share_group_link" //your theme url which will be displayed on whatsapp
+global.websitex = "https://www.facebook.com/groups/392878116089801/?ref=share_group_link" //ur website to be displayed
 global.botscript = 'https://github.com/Nipuna-apps/Blue-Lione-Bot' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
@@ -74,7 +74,7 @@ global.author = "📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶" //ur sticker w
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
-global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
+global.log0 = fs.readFileSync(".https://i.ibb.co/T4qwp5H/IMG-20220927-WA0002.jpg") //ur logo pic
 global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
